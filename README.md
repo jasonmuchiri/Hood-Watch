@@ -45,7 +45,7 @@ To view the user story, open the specs.md file.
 
 - Create a database 
   ```bash
-  psql
+  psqlpip install psycopg2
   CREATE DATABASE hood;
   ```
 
