@@ -35,7 +35,7 @@ To view the user story, open the specs.md file.
 
 ### Installation instructions
 
-- Clone the repo ~ `git clone https://github.com/jasonmuchiri/Hood-Watch.git`
+- Clone the repo ~ `git clone https://github.com/jasonmuchiri/Hood-Watch.git` && `cd Neighbourhood`
 
 - Activate virtual environment: 
    `python3.6 -m venv --without-pip virtual` then `source virtual/bin/activate`
