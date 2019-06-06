@@ -100,7 +100,7 @@ Some functionality not fully implemented
 ## Contacts
 
 For help and support feel free to contact me :
-> jasonmkinyua@gmail.com
+> _jasonmkinyua@gmail.com_
 
 ## License
 
