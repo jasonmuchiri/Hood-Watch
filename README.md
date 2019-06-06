@@ -99,7 +99,8 @@ Some functionality not fully implemented
 
 ## Contacts
 
-For help and support feel free to contact me : jasonmkinyua@gmail.com
+For help and support feel free to contact me :
+> jasonmkinyua@gmail.com
 
 ## License
 
