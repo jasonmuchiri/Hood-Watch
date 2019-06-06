@@ -3,7 +3,7 @@ from django.contrib.auth.decorators import login_required
 from django.http import HttpResponse
 from .models import Post,Profile,Neighbourhood,Business,Join
 from django.contrib import messages
-from . forms import NewPostForm,UserForm,CreateHoodForm,ProfileForm
+from . forms import NewPostForm,UserForm,CreateHoodForm,ProfileForm,BusinessForm
 from django.contrib.auth.models import User
 
 
