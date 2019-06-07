@@ -95,7 +95,7 @@ Some functionality not fully implemented
 
 ## Live link in heroku
 
-> 
+> https://hoodlife.herokuapp.com/
 
 ## Contacts
 
