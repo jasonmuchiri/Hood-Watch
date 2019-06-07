@@ -101,7 +101,7 @@ Some functionality not fully implemented
 
 ## Live link in heroku
 
-> https://hoodlife.herokuapp.com/
+> _https://hoodlife.herokuapp.com/_
 
 ## Contacts
 
