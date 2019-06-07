@@ -2,6 +2,12 @@
 
 #### A web app that keeps track of what is happening in your neighborhood 
 
+>-------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![app](/static/images/view.png)
+
+>-------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ## Description 
 
 This is a web application that allows you to be in the loop about everything happening in your neighborhood. From contact information of different handyman to meeting announcements or even alerts.
